@@ -1,1 +1,2 @@
-Halo, ini text main!
+Halo, ini text dari branch-1!
+Halo, ini text branch 2!
