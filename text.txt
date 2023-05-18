@@ -1,5 +1,11 @@
+Halo, ini text main!
 Halo, ini text dari branch-1!
 Halo, ini text branch 2!
 Halo, ini text branch 2!
 anggaplah gua ketik hal di branch2 ini, nanti merge aja deh sama yg master-up-to-date.
+nah skrg gue nambahin ini di main, nanti branch-1 punya dibawah ajah
+sekarang gue dah ambil dari main, nah ini mau nambahin something di branch-1
+
+POKOKNYA INI BRANCH-2 HASIL ADUK ADUK HAHAHHA
+ABIS INI GUE MAU MERGE KE MAIN LAGI!!!
 
