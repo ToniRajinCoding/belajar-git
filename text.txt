@@ -10,3 +10,4 @@ POKOKNYA INI BRANCH-2 HASIL ADUK ADUK HAHAHHA
 ABIS INI GUE MAU MERGE KE MAIN LAGI!!!
 
 ini branch-1 hehe, gue push ke branch-1 dulu ya
+test nyosor lagi dari branch-2, mau di push ke main lgsung
