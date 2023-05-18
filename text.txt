@@ -1,3 +1,5 @@
 Halo, ini text main!
 Halo, ini text dari branch-1!
 Halo, ini text branch 2!
+
+sekarang gue dah ambil dari main, nah ini mau nambahin something di branch-1
