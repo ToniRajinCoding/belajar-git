@@ -1,2 +1,5 @@
 Halo, ini text dari branch-1!
 Halo, ini text branch 2!
+Halo, ini text branch 2!
+anggaplah gua ketik hal di branch2 ini, nanti merge aja deh sama yg master-up-to-date.
+
